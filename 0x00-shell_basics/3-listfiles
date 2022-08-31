@@ -1,2 +1,2 @@
-$ chmod +x
-/#!/bin/bash
+#!/bin/bash
+ls -1
