@@ -1,6 +1,6 @@
-## 0x0C. Web server
+# 0x0C. Web server
 
-# Tasks
+## Tasks
 0. Transfer a file to your server
 mandatory
 Write a Bash script that transfers a file from our client to a server:
