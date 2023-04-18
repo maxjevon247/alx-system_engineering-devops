@@ -1,6 +1,6 @@
-## 0x13. Firewall
+# 0x13. Firewall
 
-# Tasks
+## Tasks
 0. Block all incoming traffic but
 install the ufw firewall and setup a few rules on web-01.
 
